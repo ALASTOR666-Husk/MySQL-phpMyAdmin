@@ -99,7 +99,7 @@ docker compose ps -a
 - Пользователь: `root`
 - Пароль: `root`
 
-![Screen](/content/Docker/DockerCompose/img/13.png)
+![Screen](ORIG2.png)
 ![Screen](/content/Docker/DockerCompose/img/14.png)
 
 ### 5. Управление и полезные команды
