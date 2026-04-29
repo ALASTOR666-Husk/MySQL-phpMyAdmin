@@ -100,7 +100,7 @@ docker compose ps -a
 - Пароль: `root`
 
 ![Screen](ORIG2.png)
-![Screen](/content/Docker/DockerCompose/img/14.png)
+![Screen](ORIG1.png)
 
 ### 5. Управление и полезные команды
 
@@ -140,7 +140,7 @@ docker compose config
 ```shell
 docker compose exec mysql bash
 ```
-![Screen](/content/Docker/DockerCompose/img/14.png)
+![Screen](ORIG1.png)
 Выйти из контейнера можно командой `exit`
 
 ### 6. Удаление этого проекта
